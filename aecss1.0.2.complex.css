@@ -224012,7 +224012,7 @@
   justify-content: center;
 }
 
-.sentry-bet {
+.sentry-bet, .sentry-bet-100, .sentry-bet-99, .sentry-bet-98, .sentry-bet-97, .sentry-bet-96, .sentry-bet-95, .sentry-bet-94, .sentry-bet-93, .sentry-bet-92, .sentry-bet-91, .sentry-bet-90, .sentry-bet-89, .sentry-bet-88, .sentry-bet-87, .sentry-bet-86, .sentry-bet-85, .sentry-bet-84, .sentry-bet-83, .sentry-bet-82, .sentry-bet-81, .sentry-bet-80, .sentry-bet-79, .sentry-bet-78, .sentry-bet-77, .sentry-bet-76, .sentry-bet-75, .sentry-bet-74, .sentry-bet-73, .sentry-bet-72, .sentry-bet-71, .sentry-bet-70, .sentry-bet-69, .sentry-bet-68, .sentry-bet-67, .sentry-bet-66, .sentry-bet-65, .sentry-bet-64, .sentry-bet-63, .sentry-bet-62, .sentry-bet-61, .sentry-bet-60, .sentry-bet-59, .sentry-bet-58, .sentry-bet-57, .sentry-bet-56, .sentry-bet-55, .sentry-bet-54, .sentry-bet-53, .sentry-bet-52, .sentry-bet-51, .sentry-bet-50, .sentry-bet-49, .sentry-bet-48, .sentry-bet-47, .sentry-bet-46, .sentry-bet-45, .sentry-bet-44, .sentry-bet-43, .sentry-bet-42, .sentry-bet-41, .sentry-bet-40, .sentry-bet-39, .sentry-bet-38, .sentry-bet-37, .sentry-bet-36, .sentry-bet-35, .sentry-bet-34, .sentry-bet-33, .sentry-bet-32, .sentry-bet-31, .sentry-bet-30, .sentry-bet-29, .sentry-bet-28, .sentry-bet-27, .sentry-bet-26, .sentry-bet-25, .sentry-bet-24, .sentry-bet-23, .sentry-bet-22, .sentry-bet-21, .sentry-bet-20, .sentry-bet-19, .sentry-bet-18, .sentry-bet-17, .sentry-bet-16, .sentry-bet-15, .sentry-bet-14, .sentry-bet-13, .sentry-bet-12, .sentry-bet-11, .sentry-bet-10, .sentry-bet-9, .sentry-bet-8, .sentry-bet-7, .sentry-bet-6, .sentry-bet-5, .sentry-bet-4, .sentry-bet-3, .sentry-bet-2, .sentry-bet-1 {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -224452,4 +224452,4 @@
   grid-template-rows: auto 1fr auto;
 }
 
-/*# sourceMappingURL=aecss.complex.css.map */
+/*# sourceMappingURL=aecss1.0.2.complex.css.map */
