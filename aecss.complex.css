@@ -224008,35 +224008,41 @@
 
 .sentry {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 .sentry-bet {
+  display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 
 .sentry-aro {
+  display: flex;
+  align-items: center;
   justify-content: space-around;
 }
 
 .sentry-even {
+  display: flex;
+  align-items: center;
   justify-content: space-evenly;
 }
 
-.sentry-fdc, .sentry-bet-fdc, .sentry-aro-fdc, .sentry-even-fdc {
+.fdc {
   flex-direction: column;
 }
 
-.sentry-fdr, .sentry-bet-fdr, .sentry-aro-fdr, .sentry-even-fdr {
+.fdr {
   flex-direction: row;
 }
 
-.sentry-fdc-r, .sentry-bet-fdc-r, .sentry-aro-fdc-r, .sentry-even-fdc-r {
+.fdc-r {
   flex-direction: column-reverse;
 }
 
-.sentry-fdr-r, .sentry-bet-fdr-r, .sentry-aro-fdr-r, .sentry-even-fdr-r {
+.fdr-r {
   flex-direction: row-reverse;
 }
 
