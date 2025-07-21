@@ -96,28 +96,54 @@
   .pr-#{$i}-px  { padding-right: #{$i}px; }
 }
 
+// sentry = flexbox basico
 @mixin sentry-base($justify) {
   display: flex;
   align-items: center;
   justify-content: $justify;
 }
 
-@mixin flex-dir($dir) {
-  flex-direction: $dir;
+// flex direction
+@mixin flex-dir($direccion) {
+  flex-direction: $direccion;
 }
 
-.sentry      { @include sentry-base(center); }
-.sentry-bet  { @include sentry-base(space-between); }
-.sentry-aro  { @include sentry-base(space-around); }
-.sentry-even { @include sentry-base(space-evenly); }
+// variantes sentry
+.sentry      { 
+  @include sentry-base(center); 
+} // center
 
-.fdc   { @include flex-dir(column); }
-.fdr   { @include flex-dir(row); }
-.fdc-r { @include flex-dir(column-reverse); }
-.fdr-r { @include flex-dir(row-reverse); }
+.sentry-bet  { 
+  @include sentry-base(space-between); 
+} // space between
 
+.sentry-aro  { 
+  @include sentry-base(space-around); 
+} // space around
 
-@for $i from 1 through 100 {
+.sentry-even { 
+  @include sentry-base(space-evenly); 
+} // space evenly
+
+// variantes flex direction
+.fdc   { 
+  @include flex-dir(column); 
+} // columna 
+
+.fdr   { 
+  @include flex-dir(row); 
+} // linea 
+
+.fdc-r { 
+  @include flex-dir(column-reverse); 
+} // columna reversa
+
+.fdr-r { 
+  @include flex-dir(row-reverse); 
+} // linea reversa
+
+// padding para between
+@for $i from 1 through 40 {
   .sentry-bet-#{$i} {
     @extend .sentry-bet;
     padding: 0 #{$i}#{"%"};
@@ -130,5 +156,66 @@
   grid-template-rows: auto 1fr auto;
 }
 
+//button
+@mixin btn($width, $height, $font){
+  border-radius: 20px;
+  background-color: rgb(19, 70, 211);
+  color: white;
+  width: $width;
+  height: $height;
+  font-size: $font;
 
+  &:hover{
+    background-color: rgb(13, 49, 148);
+    color: rgb(170, 164, 164);
+  }
+}
 
+.btn{
+  @include btn(60, 30, 15);
+}
+
+.btn-l{
+  @include btn(80, 40, 17);
+}
+
+.btn-xl{
+  @include btn(100, 50, 19);
+}
+
+//input
+@mixin input($width, $height, $font){
+  border-radius: 20px;
+  padding-left: 10px;
+  border: 0;
+  width: $width;
+  height: $height;
+  font-size: $font;
+
+  &:focus{
+    outline: none;
+    border:1px solid orange;
+  }
+}
+
+.input{
+  @include btn(200, 20, 15);
+}
+
+.input-l{
+  @include btn(300, 30, 17);
+}
+
+.input-xl{
+  @include btn(400, 35, 19);
+}
+
+//flex 
+
+.fw{ flex-wrap: wrap;}
+
+@for $i from 1 through 10{
+  .flex-#{$i}{
+    flex: #{$i};
+  }
+}

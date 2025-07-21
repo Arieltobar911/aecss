@@ -224012,7 +224012,7 @@
   justify-content: center;
 }
 
-.sentry-bet, .sentry-bet-100, .sentry-bet-99, .sentry-bet-98, .sentry-bet-97, .sentry-bet-96, .sentry-bet-95, .sentry-bet-94, .sentry-bet-93, .sentry-bet-92, .sentry-bet-91, .sentry-bet-90, .sentry-bet-89, .sentry-bet-88, .sentry-bet-87, .sentry-bet-86, .sentry-bet-85, .sentry-bet-84, .sentry-bet-83, .sentry-bet-82, .sentry-bet-81, .sentry-bet-80, .sentry-bet-79, .sentry-bet-78, .sentry-bet-77, .sentry-bet-76, .sentry-bet-75, .sentry-bet-74, .sentry-bet-73, .sentry-bet-72, .sentry-bet-71, .sentry-bet-70, .sentry-bet-69, .sentry-bet-68, .sentry-bet-67, .sentry-bet-66, .sentry-bet-65, .sentry-bet-64, .sentry-bet-63, .sentry-bet-62, .sentry-bet-61, .sentry-bet-60, .sentry-bet-59, .sentry-bet-58, .sentry-bet-57, .sentry-bet-56, .sentry-bet-55, .sentry-bet-54, .sentry-bet-53, .sentry-bet-52, .sentry-bet-51, .sentry-bet-50, .sentry-bet-49, .sentry-bet-48, .sentry-bet-47, .sentry-bet-46, .sentry-bet-45, .sentry-bet-44, .sentry-bet-43, .sentry-bet-42, .sentry-bet-41, .sentry-bet-40, .sentry-bet-39, .sentry-bet-38, .sentry-bet-37, .sentry-bet-36, .sentry-bet-35, .sentry-bet-34, .sentry-bet-33, .sentry-bet-32, .sentry-bet-31, .sentry-bet-30, .sentry-bet-29, .sentry-bet-28, .sentry-bet-27, .sentry-bet-26, .sentry-bet-25, .sentry-bet-24, .sentry-bet-23, .sentry-bet-22, .sentry-bet-21, .sentry-bet-20, .sentry-bet-19, .sentry-bet-18, .sentry-bet-17, .sentry-bet-16, .sentry-bet-15, .sentry-bet-14, .sentry-bet-13, .sentry-bet-12, .sentry-bet-11, .sentry-bet-10, .sentry-bet-9, .sentry-bet-8, .sentry-bet-7, .sentry-bet-6, .sentry-bet-5, .sentry-bet-4, .sentry-bet-3, .sentry-bet-2, .sentry-bet-1 {
+.sentry-bet, .sentry-bet-40, .sentry-bet-39, .sentry-bet-38, .sentry-bet-37, .sentry-bet-36, .sentry-bet-35, .sentry-bet-34, .sentry-bet-33, .sentry-bet-32, .sentry-bet-31, .sentry-bet-30, .sentry-bet-29, .sentry-bet-28, .sentry-bet-27, .sentry-bet-26, .sentry-bet-25, .sentry-bet-24, .sentry-bet-23, .sentry-bet-22, .sentry-bet-21, .sentry-bet-20, .sentry-bet-19, .sentry-bet-18, .sentry-bet-17, .sentry-bet-16, .sentry-bet-15, .sentry-bet-14, .sentry-bet-13, .sentry-bet-12, .sentry-bet-11, .sentry-bet-10, .sentry-bet-9, .sentry-bet-8, .sentry-bet-7, .sentry-bet-6, .sentry-bet-5, .sentry-bet-4, .sentry-bet-3, .sentry-bet-2, .sentry-bet-1 {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -224206,250 +224206,132 @@
   padding: 0 40%;
 }
 
-.sentry-bet-41 {
-  padding: 0 41%;
-}
-
-.sentry-bet-42 {
-  padding: 0 42%;
-}
-
-.sentry-bet-43 {
-  padding: 0 43%;
-}
-
-.sentry-bet-44 {
-  padding: 0 44%;
-}
-
-.sentry-bet-45 {
-  padding: 0 45%;
-}
-
-.sentry-bet-46 {
-  padding: 0 46%;
-}
-
-.sentry-bet-47 {
-  padding: 0 47%;
-}
-
-.sentry-bet-48 {
-  padding: 0 48%;
-}
-
-.sentry-bet-49 {
-  padding: 0 49%;
-}
-
-.sentry-bet-50 {
-  padding: 0 50%;
-}
-
-.sentry-bet-51 {
-  padding: 0 51%;
-}
-
-.sentry-bet-52 {
-  padding: 0 52%;
-}
-
-.sentry-bet-53 {
-  padding: 0 53%;
-}
-
-.sentry-bet-54 {
-  padding: 0 54%;
-}
-
-.sentry-bet-55 {
-  padding: 0 55%;
-}
-
-.sentry-bet-56 {
-  padding: 0 56%;
-}
-
-.sentry-bet-57 {
-  padding: 0 57%;
-}
-
-.sentry-bet-58 {
-  padding: 0 58%;
-}
-
-.sentry-bet-59 {
-  padding: 0 59%;
-}
-
-.sentry-bet-60 {
-  padding: 0 60%;
-}
-
-.sentry-bet-61 {
-  padding: 0 61%;
-}
-
-.sentry-bet-62 {
-  padding: 0 62%;
-}
-
-.sentry-bet-63 {
-  padding: 0 63%;
-}
-
-.sentry-bet-64 {
-  padding: 0 64%;
-}
-
-.sentry-bet-65 {
-  padding: 0 65%;
-}
-
-.sentry-bet-66 {
-  padding: 0 66%;
-}
-
-.sentry-bet-67 {
-  padding: 0 67%;
-}
-
-.sentry-bet-68 {
-  padding: 0 68%;
-}
-
-.sentry-bet-69 {
-  padding: 0 69%;
-}
-
-.sentry-bet-70 {
-  padding: 0 70%;
-}
-
-.sentry-bet-71 {
-  padding: 0 71%;
-}
-
-.sentry-bet-72 {
-  padding: 0 72%;
-}
-
-.sentry-bet-73 {
-  padding: 0 73%;
-}
-
-.sentry-bet-74 {
-  padding: 0 74%;
-}
-
-.sentry-bet-75 {
-  padding: 0 75%;
-}
-
-.sentry-bet-76 {
-  padding: 0 76%;
-}
-
-.sentry-bet-77 {
-  padding: 0 77%;
-}
-
-.sentry-bet-78 {
-  padding: 0 78%;
-}
-
-.sentry-bet-79 {
-  padding: 0 79%;
-}
-
-.sentry-bet-80 {
-  padding: 0 80%;
-}
-
-.sentry-bet-81 {
-  padding: 0 81%;
-}
-
-.sentry-bet-82 {
-  padding: 0 82%;
-}
-
-.sentry-bet-83 {
-  padding: 0 83%;
-}
-
-.sentry-bet-84 {
-  padding: 0 84%;
-}
-
-.sentry-bet-85 {
-  padding: 0 85%;
-}
-
-.sentry-bet-86 {
-  padding: 0 86%;
-}
-
-.sentry-bet-87 {
-  padding: 0 87%;
-}
-
-.sentry-bet-88 {
-  padding: 0 88%;
-}
-
-.sentry-bet-89 {
-  padding: 0 89%;
-}
-
-.sentry-bet-90 {
-  padding: 0 90%;
-}
-
-.sentry-bet-91 {
-  padding: 0 91%;
-}
-
-.sentry-bet-92 {
-  padding: 0 92%;
-}
-
-.sentry-bet-93 {
-  padding: 0 93%;
-}
-
-.sentry-bet-94 {
-  padding: 0 94%;
-}
-
-.sentry-bet-95 {
-  padding: 0 95%;
-}
-
-.sentry-bet-96 {
-  padding: 0 96%;
-}
-
-.sentry-bet-97 {
-  padding: 0 97%;
-}
-
-.sentry-bet-98 {
-  padding: 0 98%;
-}
-
-.sentry-bet-99 {
-  padding: 0 99%;
-}
-
-.sentry-bet-100 {
-  padding: 0 100%;
-}
-
 .gridman {
   display: grid;
   min-height: 100dvh;
   grid-template-rows: auto 1fr auto;
 }
 
-/*# sourceMappingURL=aecss1.0.2.complex.css.map */
+.btn {
+  border-radius: 20px;
+  background-color: rgb(19, 70, 211);
+  color: white;
+  width: 60;
+  height: 30;
+  font-size: 15;
+}
+.btn:hover {
+  background-color: rgb(13, 49, 148);
+  color: rgb(170, 164, 164);
+}
+
+.btn-l {
+  border-radius: 20px;
+  background-color: rgb(19, 70, 211);
+  color: white;
+  width: 80;
+  height: 40;
+  font-size: 17;
+}
+.btn-l:hover {
+  background-color: rgb(13, 49, 148);
+  color: rgb(170, 164, 164);
+}
+
+.btn-xl {
+  border-radius: 20px;
+  background-color: rgb(19, 70, 211);
+  color: white;
+  width: 100;
+  height: 50;
+  font-size: 19;
+}
+.btn-xl:hover {
+  background-color: rgb(13, 49, 148);
+  color: rgb(170, 164, 164);
+}
+
+.input {
+  border-radius: 20px;
+  background-color: rgb(19, 70, 211);
+  color: white;
+  width: 200;
+  height: 20;
+  font-size: 15;
+}
+.input:hover {
+  background-color: rgb(13, 49, 148);
+  color: rgb(170, 164, 164);
+}
+
+.input-l {
+  border-radius: 20px;
+  background-color: rgb(19, 70, 211);
+  color: white;
+  width: 300;
+  height: 30;
+  font-size: 17;
+}
+.input-l:hover {
+  background-color: rgb(13, 49, 148);
+  color: rgb(170, 164, 164);
+}
+
+.input-xl {
+  border-radius: 20px;
+  background-color: rgb(19, 70, 211);
+  color: white;
+  width: 400;
+  height: 35;
+  font-size: 19;
+}
+.input-xl:hover {
+  background-color: rgb(13, 49, 148);
+  color: rgb(170, 164, 164);
+}
+
+.fw {
+  flex-wrap: wrap;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 2;
+}
+
+.flex-3 {
+  flex: 3;
+}
+
+.flex-4 {
+  flex: 4;
+}
+
+.flex-5 {
+  flex: 5;
+}
+
+.flex-6 {
+  flex: 6;
+}
+
+.flex-7 {
+  flex: 7;
+}
+
+.flex-8 {
+  flex: 8;
+}
+
+.flex-9 {
+  flex: 9;
+}
+
+.flex-10 {
+  flex: 10;
+}
+
+/*# sourceMappingURL=aecss1.0.3.complex.css.map */
